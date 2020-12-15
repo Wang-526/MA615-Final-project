@@ -1,4 +1,4 @@
-# MA615-Final-project
+# Introduction of my Final project 
 My project is modified based on another group project of mine. My classmate Hao Shen has already applied to Havilian to use that project as the basis to complete our MA615 final project.
 
 My shiny app has been handed over to bu-rstudio-connect, you can see my final results on it. It should be admitted that since the database we use on shiny is several GB in size, you may have to wait a little while loading.
